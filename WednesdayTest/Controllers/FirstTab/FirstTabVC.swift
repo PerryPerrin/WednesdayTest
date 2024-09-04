@@ -16,7 +16,8 @@ class FirstTabVC: UIViewController {
     
 
     @IBAction func NextPageBtn(_ sender: UIButton) {
-        print("next page button tapped...")
+        print("next page button tapped...");
+        
     }
     
 }

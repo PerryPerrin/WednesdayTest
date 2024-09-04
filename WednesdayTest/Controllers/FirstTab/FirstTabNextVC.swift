@@ -1,5 +1,5 @@
 //
-//  SecondTabVC.swift
+//  FirstTabNextVC.swift
 //  WednesdayTest
 //
 //  Created by Perry Perrin on R 6/09/04.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SecondTabVC: UIViewController {
+class FirstTabNextVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
